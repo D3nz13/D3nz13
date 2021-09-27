@@ -1,7 +1,7 @@
 - 👋 Hi ! I'm a Student of Computer Science at Poznań University of Technology.
 - 👀 I’m interested in Data Science and Machine Learning
 
-<h2> 🛠 &nbsp;Technologies I'm familiar with:</h2> 
+# 🛠 &nbsp;Technologies I'm familiar with:
 <table>
   <tr>
     <td align="center" width="96">
@@ -22,3 +22,6 @@
     </td>
   </tr>
 </table>
+
+# ✉️ Contact me here:
+- [LinkedIn](https://www.linkedin.com/in/sebastian-szczepaniak-4440b9217/)
