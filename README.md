@@ -1,5 +1,6 @@
-- 👋 Hi ! I'm a graduate of Computer Science and am currently pursuing a master's degree in Artificial Intelligence at the Poznań University of Technology. Also I'm working as a Junior Data Scientist :)
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👋 Hi ! I'm a graduate of Computer Science and am currently pursuing a master's degree in Artificial Intelligence at the Poznań University of Technology. Throughout my academic years I've gained both practical and theoretical knowledge in the area of Computer Science.
+- I'm also a Data Scientist with commercial experience seeking for new challenges and opportunities to grow.
+- 👀 My main areas of interest are Spiking Neural Networks and TinyML applications.
 
 # 🛠 &nbsp;Technologies I'm familiar with:
 ## Programming languages
