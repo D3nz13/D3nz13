@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-## Data Science framworks
+## Data Science frameworks
 
 <table align="center">
   <tr>
