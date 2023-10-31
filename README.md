@@ -77,5 +77,20 @@
   </tr>
 </table>
 
+# GitHub Stats
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+      <thead>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=D3nz13&show_icons=true&locale=en&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+        </tr>
+      </thead>
+    </table>
+
 # ✉️ Contact me here:
 - [LinkedIn](https://www.linkedin.com/in/sebastian-szczepaniak-4440b9217/)
