@@ -1,3 +1,5 @@
+# About me
+
 - 👋 Hi ! I hold a bachelor's degree in Computer Science and am currently pursuing a master's degree in Artificial Intelligence at the Poznań University of Technology. Throughout my academic years I've gained both practical and theoretical knowledge in the field of Computer Science.
 - 💻 I'm also a Data Scientist with commercial experience actively seeking new challenges and opportunities for professional growth.
 - 👀 My main areas of interest are Spiking Neural Networks and TinyML applications.
