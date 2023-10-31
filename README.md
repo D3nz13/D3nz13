@@ -1,9 +1,9 @@
-- 👋 Hi ! I'm a graduate of Computer Science and am currently pursuing a master's degree in Artificial Intelligence at the Poznań University of Technology. Throughout my academic years I've gained both practical and theoretical knowledge in the area of Computer Science.
-- I'm also a Data Scientist with commercial experience seeking for new challenges and opportunities to grow.
+- 👋 Hi ! I hold a bachelor's degree in Computer Science and am currently pursuing a master's degree in Artificial Intelligence at the Poznań University of Technology. Throughout my academic years I've gained both practical and theoretical knowledge in the area of Computer Science.
+- 💻 I'm also a Data Scientist with commercial experience actively seeking new challenges and opportunities for professional growth.
 - 👀 My main areas of interest are Spiking Neural Networks and TinyML applications.
 
 # 🛠 &nbsp;Technologies I'm familiar with:
-## Programming languages
+## 🖥️ Programming languages
 
 <table align="center">
   <tr>
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-## Data Science frameworks
+## 📈 Data Science frameworks
 
 <table align="center">
   <tr>
@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-## Machine Learning frameworks
+## 🤖 Machine Learning frameworks
 
 <table align="center">
   <tr>
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-## Cloud
+## ☁️ Cloud
 
 <table align="center">
   <tr>
