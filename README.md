@@ -35,12 +35,12 @@
       <br>Pandas&nbsp
     </td>
     <td align="center" width="96">
-      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png?20200209204934" width="80" height="42"/></a>
-      <br>SciPy TODO IMAGE&nbsp
+      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/640px-SCIPY_2.svg.png" width="80" height="42"/></a>
+      <br>SciPy&nbsp
     </td>
     <td align="center" width="96">
-      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png?20200209204934" width="80" height="42"/></a>
-      <br>PySpark TODO IMAGE&nbsp
+      <a><img src="https://miro.medium.com/v2/1*nPcdyVwgcuEZiEZiRqApug.jpeg" width="80" height="42"/></a>
+      <br>PySpark&nbsp
     </td>
   </tr>
 </table>
@@ -54,8 +54,8 @@
       <br>Tensorflow&nbsp
     </td>
     <td align="center" width="96">
-      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" width="40" height="42"/></a>
-      <br>Pytorch TODO IMAGE&nbsp
+      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/640px-Pytorch-svgrepo-com.svg.png" width="40" height="42"/></a>
+      <br>Pytorch&nbsp
     </td>
     <td align="center" width="96">
       <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="100" height="42"/></a>
@@ -69,8 +69,8 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" width="40" height="42"/></a>
-      <br>Azure TODO IMAGE&nbsp
+      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New-azure-logo-square.png/640px-New-azure-logo-square.png" width="40" height="42"/></a>
+      <br>Azure&nbsp
     </td>
   </tr>
 </table>
